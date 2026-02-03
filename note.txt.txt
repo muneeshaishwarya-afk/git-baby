@@ -1,2 +1,2 @@
 Hi
-this is my first giiit file
+this is my first git file

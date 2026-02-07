@@ -1,5 +1,5 @@
 git pratice file
 in vc 
-learning new file from master
+learning new file MASTER VERSION
 
 branch pratice started
